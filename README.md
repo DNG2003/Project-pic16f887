@@ -3,7 +3,7 @@
 ## Project Description
 This project is a monitoring system based on the **PIC16F887** microcontroller. It integrates multiple industrial communication protocols and peripheral controllers to establish a local control loop along with remote monitoring capabilities.
 
-### 🔧 Key Technical Features
+###  Key Technical Features
 * **Real-Time Clock (RTC):** An **RTC 1307** clock module was implemented using **I2C** with a custom interactive menu for setting the date and time via a matrix keypad.
 
 * **Thermal Management:** Integrated temperature sensors (**LM75**) with automatic fan speed control via **PWM** modulation based on real-time environmental thresholds.
@@ -18,7 +18,7 @@ This project is a monitoring system based on the **PIC16F887** microcontroller. 
 
 Here you can see the microcontroller's connections to the peripherals (LCD, keyboard, RTC, sensors, and actuators):
 
-![System Architecture](./Project.png)
+![Proyecto](Proyecto.png)
 
 ---
 
